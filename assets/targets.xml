@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TV4" size="100.000000 100.000000" />
+    <ImageTarget name="TV3" size="100.000000 100.000000" />
+    <ImageTarget name="TV2" size="100.000000 100.000000" />
+    <ImageTarget name="TV1" size="100.000000 100.000000" />
+    <ImageTarget name="Planta5" size="100.000000 100.000000" />
+    <ImageTarget name="Planta4" size="100.000000 100.000000" />
+    <ImageTarget name="Planta3" size="100.000000 100.000000" />
+    <ImageTarget name="Planta2" size="100.000000 100.000000" />
+    <ImageTarget name="Planta1" size="100.000000 100.000000" />
+    <ImageTarget name="Sinuca2" size="100.000000 100.000000" />
+    <ImageTarget name="Sinuca1" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa7" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa6" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa5" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa4" size="100.000000 100.000000" />
+    <ImageTarget name="Relogio3" size="100.000000 100.000000" />
+    <ImageTarget name="Relogio2" size="100.000000 100.000000" />
+    <ImageTarget name="Relogio1" size="100.000000 100.000000" />
+    <ImageTarget name="Mesa5" size="100.000000 100.000000" />
+    <ImageTarget name="Mesa4" size="100.000000 100.000000" />
+    <ImageTarget name="Mesa3" size="100.000000 100.000000" />
+    <ImageTarget name="Mesa2" size="100.000000 100.000000" />
+    <ImageTarget name="Mesa1" size="100.000000 100.000000" />
+    <ImageTarget name="GuardaRoupa1" size="100.000000 100.000000" />
+    <ImageTarget name="Geladeira2" size="100.000000 100.000000" />
+    <ImageTarget name="Geladeira1" size="100.000000 100.000000" />
+    <ImageTarget name="Criado5" size="100.000000 100.000000" />
+    <ImageTarget name="Cama6" size="100.000000 100.000000" />
+    <ImageTarget name="Cama5" size="100.000000 100.000000" />
+    <ImageTarget name="Cama4" size="100.000000 100.000000" />
+    <ImageTarget name="Cama3" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa3" size="100.000000 100.000000" />
+    <ImageTarget name="Criado4" size="100.000000 100.000000" />
+    <ImageTarget name="Criado3" size="100.000000 100.000000" />
+    <ImageTarget name="Criado2" size="100.000000 100.000000" />
+    <ImageTarget name="Criado1" size="100.000000 100.000000" />
+    <ImageTarget name="Assento5" size="100.000000 100.000000" />
+    <ImageTarget name="Assento1" size="100.000000 100.000000" />
+    <ImageTarget name="Cama2" size="100.000000 100.000000" />
+    <ImageTarget name="Cama1" size="100.000000 100.000000" />
+    <ImageTarget name="Assento2" size="100.000000 100.000000" />
+    <ImageTarget name="Poste" size="100.000000 100.000000" />
+    <ImageTarget name="Assento3" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa2" size="100.000000 100.000000" />
+    <ImageTarget name="Sofa1" size="100.000000 100.000000" />
+    <ImageTarget name="assento4" size="100.000000 100.000000" />
+    <ImageTarget name="CadeiraBalanco" size="100.000000 100.000000" />
+    <ImageTarget name="Abajur" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
